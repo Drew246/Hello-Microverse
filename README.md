@@ -104,7 +104,7 @@ You can deploy this project using:
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-N/A
+Andrew McCollin
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,7 +119,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank...
+I would like to thank Microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
